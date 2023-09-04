@@ -543,8 +543,8 @@ mark{
 .scroll-to-top {
 	position: fixed;
 	cursor: pointer;
-	bottom: 30px;
-	right: 30px;
+	bottom: 90px;
+	right: 40px;
 	display: none;
 	z-index: 95;
 	-webkit-writing-mode: vertical-lr;
