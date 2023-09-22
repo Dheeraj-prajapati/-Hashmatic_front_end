@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--because of error" unknown tag SEO comented the below line"-->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" href="@Blog/@myBlog1/css/assets-main.css">
+  <link rel="stylesheet" href="@Blog/@myBlog1/css/css-styles.css">
+  <link rel="icon" href="images/favicon.png">
+  <script src="js/3.5.1-jquery.min.js"></script>
+  <script src="js/js-scripts.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JYL5R0RJ22"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-JYL5R0RJ22');
+  </script>
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="KancoCloud">
+</head>
+
+<body>
+  <header class="site-header" role="banner">
+
+    <div class="wrapper" style="margin-left: -20px ;">
+      <!--original from minima theme <a class="site-title" rel="author" href="/">KancoCloud</a>-->
+
+      <!-- custom adding company logo -->
+      <nav class="navbar navbar-expand-lg navbar-light ss-navbar fixed-top">
+        <div class="container">
+          <div class="">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+              aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand p-0" href="https://www.hashmatic.in/">
+              <img src="@Blog/images/favicon.png" alt="Logo" class="img-fluid"  >
+            </a>
+          </div>
+          <div class="navbar-overlay"></div>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ms-auto navbar-menu-link">
+              <li class="nav-item">
+                <a class="nav-link" href="https://hashmatic.in/#ABOUT_US" target="_blank">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://hashmatic.in/#MySERVICE" target="_blank">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https">Careers</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="#">Blogs</a>
+              </li>
+              <!-- <li class="nav-item">
+                <a class="nav-link" href="https://www.hashmaticcloud.com/AWS-Partnership.html">AWS Partner</a>
+              </li> -->
+            </ul>
+          </div>
+          <a href="https://calendly.com/hashmatic/30min?month=2023-09" target="_blank"
+            class="btn btn-primary btn-hover-effect btn-header-contact">Appointment
+            </a>
+        </div>
+      </nav>
+      <nav>
+        <div class="trigger"></div>
+      </nav>
+    </div>
+  </header>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <nav style="padding-bottom: 50px; display:none;">
+        <a href="blog.hashmaticcloud.html" class="blog-nav-link">All Posts</a>
+        <a href="#" class="blog-nav-link">Test Automation</a>
+        <a href="#" class="blog-nav-link">Mobile Apps</a>
+      </nav>
+      <style>
+        .thumbnail-image {
+          max-width: 100%;
+          max-height: 1000px;
+        }
+
+        .post-title {
+          font-size: 30px;
+          text-align: center;
+          font-weight: 600;
+        }
+
+        .post-excerpt {
+          font-size: 0.9em;
+        }
+
+        .post-meta {
+          font-size: ;
+        }
+
+        .read-more-button {
+          font-size: 12px;
+          border-radius: 5px ;
+          background-color: #fff;
+          color: #552120;
+          transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+          border: 1px solid #131212;
+        }
+
+        .read-more-button:hover {
+          background-color: #7b5eea;
+          color: white;
+          border-color: white;
+        }
+
+        .post-item {
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          height: auto;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .thumbnail {
+          width: 200px;
+          margin-right: 10px;
+          overflow: hidden;
+        }
+
+        .post-details {
+          flex-grow: 1;
+          max-width: 60rem;
+          /* Adjust the width as needed */
+        }
+
+        @media (max-width: 767px) {
+          .post-item {
+            height: auto;
+          }
+
+          .thumbnail {
+            width: 100%;
+            margin-right: 0;
+            margin-bottom: 10px;
+          }
+        }
+      </style>
+
+      <div class="home">
+        <div class="p-4">
+          <div class="post-list d-flex justify-content-center flex-wrap">
+            <div class="post-item m-4 p-3">
+              <div class="post-details">
+                <h2 class="post-title"> <u>Error / Exception handling in solidity</u> </h2>
+                <br><br>
+                <p class="post-excerpt">
+                  The error handling in solidity is one of the powerful mechanism to handle the runtime errors so that normal flow of the execution can be maintained. 
+                <br><br>
+                <b>Types of errors : </b>
+                <br> <br>
+                1. <b>Runtime error</b> : These errors occur during the execution of a smart contract and can be handled using mechanisms like require, assert, and custom error messages. For example, division by zero, out-of-bounds array access, or insufficient balance are runtime errors. Solidity provides ways to catch and handle these errors to prevent unintended behavior.
+                <br><br>
+                2. <b>Compile Time error</b> : These occur during the compilation of your Solidity code before deploying it to the Ethereum blockchain. These errors are typically related to syntax errors, undeclared variables, or other issues that prevent the code from being successfully compiled. Solidity compiler (solc) will report these errors, and you must fix them before deploying the contract. These errors are not "handled" in the traditional sense because they prevent the contract from being deployed in the first place.
+                <br><br>
+                <b>Ways to handle the error in solidity : </b>
+                <br><br>
+                1. <b>Try-catch</b> : The 
+                <span style="color: rgb(255, 0, 0); background-color: #e2dddd;"> try</span
+                statement allows you to define a block of code to be tested for errors while it is being executed. If any error occurs in the try block , catch block is used to handle those errors. 
+                <br>
+                <b>Example :</b>
+                <br>
+                We use the  <span style="color: rgb(255, 0, 0); background-color: #e2dddd;"> try</span>
+                 block to call the 
+                 <span style="color: rgb(255, 0, 0); background-color: #e2dddd;"> updateBalance</span>
+                  function. If an error occurs in the
+                  <span style="color: rgb(255, 0, 0); background-color: #e2dddd;"> updateBalance</span>
+                  function, it is caught in the 
+                  <span style="color: rgb(255, 0, 0); background-color: #e2dddd;"> catch</span>
+                     block, and you can handle the error accordingly.
+
+                </p>
+
+                
+                <div class="container">
+                  <pre class="prettyprint" style="background-color: #1f1f1f; color: rgb(174, 170, 170); font-weight:100; border-radius: 12px;">
+                pragma solidity ^0.8.0;
+                  
+                contract ErrorHandlingExample {
+                    uint256 public balance = 100;
+                
+                    function withdraw(uint256 amount) public {
+                        try this.updateBalance(amount) {
+                            // Successful operation, continue
+                        } catch Error(string memory errorMessage) {
+                            // Handle the error here if anything breaks in try block 
+                        }
+                    }
+                  
+                    function updateBalance(uint256 amount) internal {
+                        require(amount <= balance, "Insufficient balance");
+                        balance -= amount;
+                    }
+                }
+                </pre>
+                  </div>
+
+                    <br><br>
+                  <p>
+                    2. <b>Custom error Message</b> :
+                      We can create custom error message to give more context about the error. It is mainly helpful when providing more meaningful and informative feedback to users. 
+                      <br><br>
+                      <b>Example:</b>
+                      <br>
+                      Let's consider a simple escrow contract where a buyer sends funds to the contract, and the seller can release the funds once the buyer confirms the delivery of goods. We'll throw the custom error to provide clear feedback to the participants.
+                      <br>
+                  </p>
+                  <div class="container">
+                    <pre class="prettyprint" style="background-color: #1f1f1f; color: rgb(174, 170, 170); font-weight:100; border-radius: 12px;">
+                      pragma solidity ^0.8.0;
+
+                      contract Escrow {
+                          address public buyer;
+                          address public seller;
+                          uint256 public escrowAmount;
+                          bool public goodsReceived;
+                      
+                          constructor(address _seller) {
+                              buyer = msg.sender;
+                              seller = _seller;
+                              escrowAmount = 0;
+                              goodsReceived = false;
+                          }
+                      
+                          function depositFunds() public payable {
+                              require(msg.sender == buyer, "Only the buyer can deposit funds.");
+                              require(msg.value > 0, "Deposit amount must be greater than zero.");
+                              escrowAmount += msg.value;
+                          }
+                      
+                          function confirmGoodsReceived() public {
+                              require(msg.sender == buyer, "Only the buyer can confirm goods received.");
+                              require(escrowAmount > 0, "No funds in escrow.");
+                              goodsReceived = true;
+                          }
+                      
+                          function releaseFunds() public {
+                              require(msg.sender == seller, "Only the seller can release funds.");
+                              require(goodsReceived, "Goods not yet received.");
+                              payable(seller).transfer(escrowAmount);
+                              escrowAmount = 0;
+                          }
+                      
+                          function refundBuyer() public {
+                              require(msg.sender == seller, "Only the seller can refund the buyer.");
+                              require(!goodsReceived, "Goods have already been received.");
+                              payable(buyer).transfer(escrowAmount);
+                              escrowAmount = 0;
+                          }
+                      }
+                  </pre>
+                    </div>
+                    <br><br>
+                    <p>
+                      3. <b>revert</b> : It is a specific mechanism in Solidity that allows you to revert the current transaction and provide an optional error message. It is the primary mechanism for handling exceptional conditions or errors in a smart contract. 
+                      <br><br>
+                      <b>Example</b>  :
+                      <br><br>
+                      <div class="container">
+                        <pre class="prettyprint" style="background-color: #1f1f1f; color: rgb(174, 170, 170); font-weight:100; border-radius: 12px;">
+                          function withdraw(uint256 amount) public {
+                            if (amount > balance) {
+                                // Revert with an informative message
+                                revert("Insufficient funds for withdrawal.");
+                            }
+                        
+                            // Continue with the withdrawal logic
+                        }
+                      </pre>
+                        </div>
+                    </p>
+
+                <span class="post-meta">June 9, 2023 | Nishank Soni</span>
+
+              </div>
+            </div>
+
+
+    </div>
+  </main>
+
+
+
+
+
+  <footer>
+    <div class="content">
+        <div class="top">
+            <div class="logo-details">
+                <img src="@Blog/images/footer Logo.png" alt="">
+            </div>
+            <div class="media-icons">
+                <a href="https://www.linkedin.com/company/hashmatic/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+        <div class="link-boxes">
+            <ul class="box">
+                <li class="link_name">Company</li>
+                <li><a href="https://hashmatic.in">Home</a></li>
+                <li><a href="https://hashmatic.in/#about-us" target="_blank">About us</a></li>
+                <li><a href="https://hashmatic.in/#services" target="_blank">Services</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="https://hashmatic.in/#contact" target="_blank">Contact</a></li>
+            </ul>
+            <ul class="box">
+                <li class="link_name">Mobile Application</li>
+                <li><a href="#">iOS App</a></li>
+                <li><a href="#">Android App</a></li>
+                <li><a href="#">React Native App</a></li>
+                <li><a href="#">Flutter/Dart App</a></li>
+            </ul>
+            <ul class="box">
+                <li class="link_name">Software Testing</li>
+                <li><a href="#">Mobile Testing</a></li>
+                <li><a href="#">API Testing</a></li>
+                <li><a href="#">Web Testing</a></li>
+                <li><a href="#">Performance Testing</a></li>
+                <li><a href="#">Regression Testing</a></li>
+            </ul>
+            <ul class="box">
+                <li class="link_name">Event Streaming</li>
+                <li><a href="#">Apache Kafka</a></li>
+                <li><a href="#">RabbitMQ</a></li>
+                <li><a href="#">ActiveMQ</a></li>
+                <li><a href="#">Amazon SNS</a></li>
+            </ul>
+            <ul class="box">
+                <li class="link_name">DevOps</li>
+                <li><a href="#">Infrastructure Provisioning</a></li>
+                <li><a href="#">Serverless</a></li>
+                <li><a href="#">Configuration Management</a></li>
+                <li><a href="#">Container Orchestration</a></li>
+            </ul>
+
+        </div>
+    </div>
+    <div class="bottom-details">
+        <div class="bottom_text">
+            <span class="copyright_text">Copyright &#169; 2023 <a href="#">Hashmatic.</a>All rights reserved.</span>
+            <span class="policy_terms">
+                <a href="#">Privacy policy</a>
+                <a href="#">Terms & Conditions</a>
+            </span> 
+        </div>
+    </div>
+  </footer>
+
+  
+  <script src="js/script.js"></script>
+</body>
+
+</html>
