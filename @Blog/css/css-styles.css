@@ -3,6 +3,7 @@
 body a:hover {
     text-decoration: none;
     color: #7b5eea
+    
 }
 
 .blog-nav-link {
@@ -1893,13 +1894,13 @@ button:hover, button:focus, button:active {
 
 
 
+
+
+
+
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>Footer>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 
 
-body {
-    min-height: 230vh;
-
-}
 @media only screen and (max-width: 768px) and (min-width: 700px) {
     body {
         min-height: 400vh;
@@ -1908,7 +1909,7 @@ body {
   }
 
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -2191,3 +2192,5 @@ footer .bottom-details .bottom_text a{
         width: 100%;
     }
 }
+
+

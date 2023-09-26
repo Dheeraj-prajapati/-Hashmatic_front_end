@@ -1,0 +1,3236 @@
+*,
+:focus {
+  outline: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+.notion-light-theme .token.atrule,
+.notion-light-theme .token.attr-value,
+.notion-light-theme .token.keyword {
+  color: rgb(0, 119, 170);
+}
+.token.operator.operator {
+  background: transparent;
+}
+.notion-light-theme .language-css .token.string,
+.notion-light-theme .style .token.string,
+.notion-light-theme .token.entity,
+.notion-light-theme .token.operator,
+.notion-light-theme .token.url {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(154, 110, 58);
+}
+.notion-light-theme .token.boolean,
+.notion-light-theme .token.constant,
+.notion-light-theme .token.deleted,
+.notion-light-theme .token.number,
+.notion-light-theme .token.property,
+.notion-light-theme .token.symbol,
+.notion-light-theme .token.tag {
+  color: rgb(153, 0, 85);
+}
+.notion-light-theme .token.punctuation {
+  color: rgb(153, 153, 153);
+}
+.notion-light-theme .token.class-name,
+.notion-light-theme .token.function {
+  color: rgb(221, 74, 104);
+}
+.notion-light-theme .token.attr-name,
+.notion-light-theme .token.builtin,
+.notion-light-theme .token.char,
+.notion-light-theme .token.inserted,
+.notion-light-theme .token.selector,
+.notion-light-theme .token.string {
+  color: rgb(102, 153, 0);
+}
+*,
+:focus {
+  outline: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+.notion-light-theme .token.atrule,
+.notion-light-theme .token.attr-value,
+.notion-light-theme .token.keyword {
+  color: rgb(0, 119, 170);
+}
+.token.operator.operator {
+  background: transparent;
+}
+.notion-light-theme .language-css .token.string,
+.notion-light-theme .style .token.string,
+.notion-light-theme .token.entity,
+.notion-light-theme .token.operator,
+.notion-light-theme .token.url {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(154, 110, 58);
+}
+.notion-light-theme .token.boolean,
+.notion-light-theme .token.constant,
+.notion-light-theme .token.deleted,
+.notion-light-theme .token.number,
+.notion-light-theme .token.property,
+.notion-light-theme .token.symbol,
+.notion-light-theme .token.tag {
+  color: rgb(153, 0, 85);
+}
+.notion-light-theme .token.punctuation {
+  color: rgb(153, 153, 153);
+}
+.notion-light-theme .token.class-name,
+.notion-light-theme .token.function {
+  color: rgb(221, 74, 104);
+}
+.notion-light-theme .token.attr-name,
+.notion-light-theme .token.builtin,
+.notion-light-theme .token.char,
+.notion-light-theme .token.inserted,
+.notion-light-theme .token.selector,
+.notion-light-theme .token.string {
+  color: rgb(102, 153, 0);
+}
+*,
+:focus {
+  outline: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+.notion-light-theme .token.atrule,
+.notion-light-theme .token.attr-value,
+.notion-light-theme .token.keyword {
+  color: rgb(0, 119, 170);
+}
+.token.operator.operator {
+  background: transparent;
+}
+.notion-light-theme .language-css .token.string,
+.notion-light-theme .style .token.string,
+.notion-light-theme .token.entity,
+.notion-light-theme .token.operator,
+.notion-light-theme .token.url {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(154, 110, 58);
+}
+.notion-light-theme .token.boolean,
+.notion-light-theme .token.constant,
+.notion-light-theme .token.deleted,
+.notion-light-theme .token.number,
+.notion-light-theme .token.property,
+.notion-light-theme .token.symbol,
+.notion-light-theme .token.tag {
+  color: rgb(153, 0, 85);
+}
+.notion-light-theme .token.punctuation {
+  color: rgb(153, 153, 153);
+}
+.notion-light-theme .token.class-name,
+.notion-light-theme .token.function {
+  color: rgb(221, 74, 104);
+}
+.notion-light-theme .token.attr-name,
+.notion-light-theme .token.builtin,
+.notion-light-theme .token.char,
+.notion-light-theme .token.inserted,
+.notion-light-theme .token.selector,
+.notion-light-theme .token.string {
+  color: rgb(102, 153, 0);
+}
+.pseudoBefore::before {
+  background: var(--pseudoBefore--background);
+  border: var(--pseudoBefore--border);
+  color: var(--pseudoBefore--color);
+  content: var(--pseudoBefore--content);
+  font-family: var(--pseudoBefore--fontFamily);
+  height: var(--pseudoBefore--height);
+  width: var(--pseudoBefore--width);
+  display: var(--pseudoBefore--display) !important;
+}
+*,
+:focus {
+  outline: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+.notion-light-theme .token.atrule,
+.notion-light-theme .token.attr-value,
+.notion-light-theme .token.keyword {
+  color: rgb(0, 119, 170);
+}
+.token.operator.operator {
+  background: transparent;
+}
+.notion-light-theme .language-css .token.string,
+.notion-light-theme .style .token.string,
+.notion-light-theme .token.entity,
+.notion-light-theme .token.operator,
+.notion-light-theme .token.url {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(154, 110, 58);
+}
+.notion-light-theme .token.boolean,
+.notion-light-theme .token.constant,
+.notion-light-theme .token.deleted,
+.notion-light-theme .token.number,
+.notion-light-theme .token.property,
+.notion-light-theme .token.symbol,
+.notion-light-theme .token.tag {
+  color: rgb(153, 0, 85);
+}
+.notion-light-theme .token.punctuation {
+  color: rgb(153, 153, 153);
+}
+.notion-light-theme .token.class-name,
+.notion-light-theme .token.function {
+  color: rgb(221, 74, 104);
+}
+.notion-light-theme .token.attr-name,
+.notion-light-theme .token.builtin,
+.notion-light-theme .token.char,
+.notion-light-theme .token.inserted,
+.notion-light-theme .token.selector,
+.notion-light-theme .token.string {
+  color: rgb(102, 153, 0);
+}
+.pseudoBefore::before {
+  background: var(--pseudoBefore--background);
+  border: var(--pseudoBefore--border);
+  color: var(--pseudoBefore--color);
+  content: var(--pseudoBefore--content);
+  font-family: var(--pseudoBefore--fontFamily);
+  height: var(--pseudoBefore--height);
+  width: var(--pseudoBefore--width);
+  display: var(--pseudoBefore--display) !important;
+}
+.notion-light-theme .token.cdata,
+.notion-light-theme .token.comment,
+.notion-light-theme .token.doctype,
+.notion-light-theme .token.prolog {
+  color: rgb(112, 128, 144);
+}
+*,
+:focus {
+  outline: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+.notion-light-theme .token.atrule,
+.notion-light-theme .token.attr-value,
+.notion-light-theme .token.keyword {
+  color: rgb(0, 119, 170);
+}
+.token.operator.operator {
+  background: transparent;
+}
+.notion-light-theme .language-css .token.string,
+.notion-light-theme .style .token.string,
+.notion-light-theme .token.entity,
+.notion-light-theme .token.operator,
+.notion-light-theme .token.url {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(154, 110, 58);
+}
+.notion-light-theme .token.boolean,
+.notion-light-theme .token.constant,
+.notion-light-theme .token.deleted,
+.notion-light-theme .token.number,
+.notion-light-theme .token.property,
+.notion-light-theme .token.symbol,
+.notion-light-theme .token.tag {
+  color: rgb(153, 0, 85);
+}
+.notion-light-theme .token.punctuation {
+  color: rgb(153, 153, 153);
+}
+.notion-light-theme .token.class-name,
+.notion-light-theme .token.function {
+  color: rgb(221, 74, 104);
+}
+.notion-light-theme .token.attr-name,
+.notion-light-theme .token.builtin,
+.notion-light-theme .token.char,
+.notion-light-theme .token.inserted,
+.notion-light-theme .token.selector,
+.notion-light-theme .token.string {
+  color: rgb(102, 153, 0);
+}
+.pseudoBefore::before {
+  background: var(--pseudoBefore--background);
+  border: var(--pseudoBefore--border);
+  color: var(--pseudoBefore--color);
+  content: var(--pseudoBefore--content);
+  font-family: var(--pseudoBefore--fontFamily);
+  height: var(--pseudoBefore--height);
+  width: var(--pseudoBefore--width);
+  display: var(--pseudoBefore--display) !important;
+}
+.notion-light-theme .token.cdata,
+.notion-light-theme .token.comment,
+.notion-light-theme .token.doctype,
+.notion-light-theme .token.prolog {
+  color: rgb(112, 128, 144);
+}
+*,
+:focus {
+  outline: 0px;
+}
+* {
+  box-sizing: border-box;
+}
+.notion-light-theme .token.atrule,
+.notion-light-theme .token.attr-value,
+.notion-light-theme .token.keyword {
+  color: rgb(0, 119, 170);
+}
+.token.operator.operator {
+  background: transparent;
+}
+.notion-light-theme .language-css .token.string,
+.notion-light-theme .style .token.string,
+.notion-light-theme .token.entity,
+.notion-light-theme .token.operator,
+.notion-light-theme .token.url {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(154, 110, 58);
+}
+.notion-light-theme .token.boolean,
+.notion-light-theme .token.constant,
+.notion-light-theme .token.deleted,
+.notion-light-theme .token.number,
+.notion-light-theme .token.property,
+.notion-light-theme .token.symbol,
+.notion-light-theme .token.tag {
+  color: rgb(153, 0, 85);
+}
+.notion-light-theme .token.punctuation {
+  color: rgb(153, 153, 153);
+}
+.notion-light-theme .token.class-name,
+.notion-light-theme .token.function {
+  color: rgb(221, 74, 104);
+}
+.notion-light-theme .token.attr-name,
+.notion-light-theme .token.builtin,
+.notion-light-theme .token.char,
+.notion-light-theme .token.inserted,
+.notion-light-theme .token.selector,
+.notion-light-theme .token.string {
+  color: rgb(102, 153, 0);
+}
+.pseudoBefore::before {
+  background: var(--pseudoBefore--background);
+  border: var(--pseudoBefore--border);
+  color: var(--pseudoBefore--color);
+  content: var(--pseudoBefore--content);
+  font-family: var(--pseudoBefore--fontFamily);
+  height: var(--pseudoBefore--height);
+  width: var(--pseudoBefore--width);
+  display: var(--pseudoBefore--display) !important;
+}
+.notion-light-theme .token.cdata,
+.notion-light-theme .token.comment,
+.notion-light-theme .token.doctype,
+.notion-light-theme .token.prolog {
+  color: rgb(112, 128, 144);
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+td,
+th {
+  padding: 0px;
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-page-content {
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    display: block !important;
+    width: 100% !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-scroller {
+    height: auto !important;
+    width: 100% !important;
+    max-height: none !important;
+    max-width: none !important;
+    overflow: visible !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    display: block !important;
+  }
+}
+@media print {
+  .notion-table-content {
+    padding: 0px !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-code-block > div {
+    white-space: normal !important;
+  }
+}
+@media print {
+  .notion-selectable {
+    break-inside: avoid;
+    position: relative;
+    overflow: initial;
+    min-height: 0px;
+    max-width: none !important;
+  }
+}

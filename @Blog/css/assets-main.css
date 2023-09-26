@@ -29,8 +29,9 @@ body {
     font-feature-settings: "kern" 1;
     font-kerning: normal;
     display: flex;
-    min-height: 100vh;
+    height: max-content;
     flex-direction: column
+
 }
 
 h1,
@@ -393,8 +394,8 @@ table td {
 }
 
 .post-meta {
-    font-size: 14px;
-    color: #828282
+    font-size: 15px;
+    color: #3d3535
 }
 
 .post-link {
@@ -408,10 +409,11 @@ table td {
 
 .post-header {
     margin-bottom: 50px
+    
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 3px;
     letter-spacing: -1px;
     line-height: 1
 }
@@ -714,3 +716,6 @@ table td {
 .highlight .il {
     color: #099
 }
+
+
+
